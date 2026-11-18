@@ -83,7 +83,7 @@ loadSprite("player", "assets/player-sprite.png", {
         speed: 8,
     },
 
-}
+  }
 
 });
 
